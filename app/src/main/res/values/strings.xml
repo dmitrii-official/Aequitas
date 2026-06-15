@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aequitas</string>
+    <string name="home_screen_title">Home</string>
+    <string name="create_request">Create new request</string>
+    <string name="new_request_screen_title">New request</string>
+    <string name="new_request_title">Heading 1</string>
+    <string name="new_request_body">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="reject">Reject</string>
+    <string name="approve">Approve</string>
+</resources>
