@@ -17,6 +17,5 @@ fun ScreenLogo() {
         contentDescription = "VIA logo",
         modifier = Modifier
             .padding(horizontal = 80.dp, vertical = 68.dp)
-            .clip(CircleShape),
     )
 }
