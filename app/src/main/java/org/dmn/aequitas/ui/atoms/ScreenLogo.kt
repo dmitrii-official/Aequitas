@@ -12,7 +12,7 @@ import org.dmn.aequitas.R
 fun ScreenLogo() {
     Image(
         painter = painterResource(R.drawable.screen_logo),
-        contentDescription = "VIA logo",
+        contentDescription = "logo",
         modifier = Modifier
             .padding(horizontal = 80.dp, vertical = 68.dp)
     )
